@@ -1,0 +1,10 @@
+Digital Signature realization under Atmel AtMega 
+microcontrollers.
+Using RSA method, long arithmetics, Miller-Rabin test 
+and other good algorithms.
+
+TODO:
+Use Montgomery method for faster exponentiation.
+Add Makefile.
+Make code be compilable on both pc and microcontroller 
+architecture.
